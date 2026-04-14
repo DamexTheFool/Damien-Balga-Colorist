@@ -943,3 +943,9 @@ section { scroll-margin-top: 80px; }
     height: 190px;
   }
 }
+img {
+    width: 100%;
+  height: 100%;
+  border-radius: 3%;
+  display: block;
+}
